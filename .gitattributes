@@ -1,0 +1,1 @@
+clamp_defect_detection.h5 filter=lfs diff=lfs merge=lfs -text
